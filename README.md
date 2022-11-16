@@ -1,2 +1,2 @@
-- Hi, I'm Soyon. I like to do things that seem meaningful to me. :)
-
+- Hi, I'm Soyon. I like to do things that are meaningful to me. :)
+- Find (almost) all of my personal projects and fun experiments here!
